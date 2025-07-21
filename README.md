@@ -30,8 +30,5 @@ A small project to track the International Space Station using an ESP32 and OLED
 - Current location: http://api.open-notify.org/iss-now.json
 - Flyover times: http://api.open-notify.org/iss-pass.json
 
-## ✅ Done
-- [x] OLED display
-- [x] Real-time ISS position
-- [x] Overhead pass prediction
+
 
