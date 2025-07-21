@@ -6,7 +6,7 @@ A small project to track the International Space Station using an ESP32 and OLED
 - Connects to WiFi
 - Calls ISS API to get current position
 - Displays ISS location on OLED
-- Checks when ISS will fly above your location
+- Checks when ISS will fly above your location (NOT FUNCTIONNAL RN!)
 
 ##  What you need
 - ESP32
