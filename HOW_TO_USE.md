@@ -9,7 +9,7 @@ Track the International Space Station in real-time and see when it’ll fly over
 - ESP32 dev board
 - SSD1306 OLED (128x64 I2C)
 - Internet (WiFi)
-- PlatformIO (or Arduino IDE, but PlatformIO recommended)
+- PlatformIO (or Arduino IDE, )
 
 ---
 
